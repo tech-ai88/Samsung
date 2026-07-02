@@ -9,10 +9,10 @@
     - [염색공정 PPT 다운로드](https://drive.google.com/file/d/1SD8iPLib5soRbacy7SaxNTtviPY4lgSF/view?usp=sharing) 
     - [2주간 수업 내용 다운로드](https://drive.google.com/file/d/1npjChExCzI2ipz_X1cOK46SVr-cbJ0QI/view?usp=sharing)<br><br>
 - 동영상 강좌 >> 초급
-  - 한기대 온라인 평생 교육원 : https://www.step.or.kr/portal/
+  - 한기대 온라인 평생 교육원 : https://www.step.or.kr/portal/ <br><br>
 - 동영상 강좌 >> 중급 이상
   - 유데미 : https://www.udemy.com/
-  - 코세라 : https://www.coursera.org/
+  - 코세라 : https://www.coursera.org/ <br><br>
 - 데이터 다운로드 >> 회원 가입 필요
     - 제조 데이터 및 머신러닝 PDF 제공 : https://www.kamp-ai.kr/aidataList
     - 캐글 : https://www.kaggle.com/
